@@ -1,0 +1,190 @@
+# depslib dependency file v1.0
+1631081284 source:c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\funcoesmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631081285 c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\jogo.h
+
+1631081284 c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\funcoesmenu.h
+
+1631081498 c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\ranking.h
+
+1631081284 c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\menuprincipal.h
+
+1631081285 source:c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funcoesMenu.h"
+	"jogo.h"
+	"menuPrincipal.h"
+	"ranking.h"
+
+1631081284 source:c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631081284 source:c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\menuprincipal.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631081613 source:c:\users\user\desktop\faculdade\lpi\projetos c\projeto jj\explosive balloons ofc\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"funcoesMenu.h"
+	"ranking.h"
+	"jogo.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\jogo.c
+	"funcoesMenu.h"
+	"jogo.h"
+	"menuPrincipal.h"
+	"ranking.h"
+
+1631124739 c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\funcoesmenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\jogo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\ranking.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631126754 source:c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\menuprincipal.c
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\funcoesmenu.c
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\lpi\explosive balloons ofc\ranking.c
+	"funcoesMenu.h"
+	"ranking.h"
+	"jogo.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\explosive balloons ofc\funcoesmenu.c
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631124739 c:\users\user\desktop\faculdade\explosive balloons ofc\jogo.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\explosive balloons ofc\funcoesmenu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\explosive balloons ofc\ranking.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631124739 c:\users\user\desktop\faculdade\explosive balloons ofc\menuprincipal.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1631126699 source:c:\users\user\desktop\faculdade\explosive balloons ofc\jogo.c
+	"funcoesMenu.h"
+	"jogo.h"
+	"menuPrincipal.h"
+	"ranking.h"
+
+1631126754 source:c:\users\user\desktop\faculdade\explosive balloons ofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631126699 source:c:\users\user\desktop\faculdade\explosive balloons ofc\menuprincipal.c
+	"jogo.h"
+	"funcoesMenu.h"
+	"ranking.h"
+	"menuPrincipal.h"
+
+1631126887 source:c:\users\user\desktop\faculdade\explosive balloons ofc\ranking.c
+	"funcoesMenu.h"
+	"ranking.h"
+	"jogo.h"
+	"menuPrincipal.h"
+

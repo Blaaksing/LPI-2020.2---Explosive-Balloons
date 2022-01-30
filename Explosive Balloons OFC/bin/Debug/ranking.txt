@@ -1,0 +1,21 @@
+
+Sing
+ - 18
+Pedro
+ - 18
+Luiz
+ - 18
+Mateus
+ - 18
+Sing
+ - 0
+sing
+ - 0
+mae
+ - 3
+Thiago
+ - 9
+nobody
+ - 0
+denovo
+ - 1
